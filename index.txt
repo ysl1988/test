@@ -7,4 +7,7 @@ git config -global user.email xxx@xx.com
 git remote add origin https://xxxxx
 
 git干嘛滴？
+git add index.txt
+git commit -m "test"
 
+git add .
