@@ -1,0 +1,10 @@
+git init
+ssh-Keygen  C:\Users\Administrator\.ssh
+git config -global user.name "xxx"
+git config -global user.email xxx@xx.com
+
+
+git remote add origin https://xxxxx
+
+git干嘛滴？
+
